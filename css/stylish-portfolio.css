@@ -111,7 +111,7 @@ body {
   height: 100%;
   width: 100%;
   position: relative;
-  background: url('img/Auto1.jpeg') no-repeat center center fixed;
+  background: url('https://github.com/flipdejonge/RallyAmsterdam/blob/1b7fcfb3c75d7fb17352bd00ec897df199dcf464/img/Auto1.jpeg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -222,7 +222,7 @@ i.scroll:hover {
 @media (max-width: 768px) {
 	
   .header {
-	background: url('img/Auto1.jpeg') no-repeat center center scroll;
+	background: url('https://github.com/flipdejonge/RallyAmsterdam/blob/1b7fcfb3c75d7fb17352bd00ec897df199dcf464/img/Auto1.jpeg') no-repeat center center scroll;
   }
 
   .callout {
